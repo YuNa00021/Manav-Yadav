@@ -1,9 +1,1 @@
-You are now on the official website of Manav Yadav (A web Developer and Designer )
-<html>
-<head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8436748354621268" crossorigin="anonymous"></script>
-</head>
-<body>
-<img class="img" src="https://lh3.googleusercontent.com/fife/AAWUweUjo424QoZ8v-17rcp9odYhpGa2ALflk4KTgOB_31_uIJQfQDFPR-Bl4SHqw7tz7Ln8aET2xUZjjMuLqW4nw4nDIS8EpCXFTgCa1l5dhyxXTKwxrqDgeEseU7OF0eK83x6lg3c6PGCNJhZBt3_J1h78cgtHoudz62H6Edf21zkGJ-n9jAP_7Mm08v74Ie9DyVdFaG0-17Pm12EH2W-rqV2ocj6QWO3y-G4ZV8afNtv-a2mGoFiRpOGYBCypgod8tSlkzFtL6mJ9JG0QAtEB_fhNX8GCxOlpag4KXD5ogn0d5XrtcggmFKQfO1gOQrLh1fiSmduxhD17BCpoZVzL1q_wibTHR-WYQrWwSYu8K_l7mkY61AawMoNuCRsrVbTkRT9gBYR5BqD_anG1wpOp0ewjS4PMSqDT8Zk5lBfwDrAZEH80Z11DiIpdkdeICLVA7vC3hvThBDq1PwiFg6kAGrZd3LaL6J1D1RRi81AnKKFc6aNpRBYB39YIig13uDnfV3eQzc5UuRLwMoUW_caIKZTNY-6QinaeplQQEsQWNm9xiWOxjUcq5brslt5mNHQpFM2zqZO_GaLLgwKB8rZwm0GB3wM9LSdV-89x8rRqndl6blCbCvSvc_8J8QObT8HFYGihtSW357WBUkCeS-kQfdbaA6AzEfIEwTwcMze2G4r3ecUASDlJmZ8_jTmT1g6XvTbqG1H-f80ZXRqsCzCXV-as1kRbq3EHhSLGYYX1yrGYQw=s64-c">
-</body>
-</html>
+
